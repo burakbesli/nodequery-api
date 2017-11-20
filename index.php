@@ -185,6 +185,6 @@ $api = new ApiSystem;
         <hr>
       </div>
     </main>
-    <footer class="container"><p>&copy; Faydata Bilgi Teknolojileri Pazarlama ve Ticaret A.Ş.</p></footer>
+    <footer class="container"><p>&copy; Burak Beşli</p></footer>
 </body>
 </html>
